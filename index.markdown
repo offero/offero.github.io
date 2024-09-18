@@ -62,7 +62,7 @@ Social Science. The project aimed to reproduce the results of
 simulations performed by researchers on the spread of information
 through social networks.
 
-Project here: [DISim](https://github.com/offero/diffusionsi://github.com/offero/diffusionsim){:target="_blank"}
+Project here: [DISim](https://github.com/offero/diffusionsim){:target="_blank"}
 
 I hosted it originally on SourceForge and the full documentation is still
 hosted there [DISim Docs](http://diffusionsim.sourceforge.net/doc/){:target="_blank"}
