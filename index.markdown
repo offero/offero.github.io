@@ -4,7 +4,7 @@ title: "Offero's Well"
 permalink: /
 ---
 
-# Here you will find my open source code and tech blog.
+# These are just some projects I have available online
 
 ## Code
 
@@ -18,11 +18,10 @@ It's important to have a simple, reliable, and unobtrusive way of
 emitting metrics to Influx DB. Telegraf is a tool written to collect
 metrics and send them to Influx. If you want to log and graph custom
 application specific measurements, then your program has to emit
-metrics to Influx. My preferred way of doing so is by running an
+metrics to Influx. One way of doing so is by running an
 instance of telegraf along side my application and letting it collect
-and emit those events to Influx for me. That means that you have to
-emit the measurements to telegraf instead. There is a text line
-specification for Influx measurements. In order to allow my applications
+and emit those events to Influx. There is a text line
+specification for Influx measurements. In order to allow applications
 to easily emit measurements to telegraf, I wrote a few libraries in
 languages I frequently use.
 
@@ -33,7 +32,7 @@ languages I frequently use.
 
 ### Bamboo, a Redis-backed Job Queuing System
 
-At Wanderu, I built and open-sourced a job queuing system built on top of
+At a previous company, I built and open-sourced a job queuing system built on top of
 Redis. The system itself is a reliable distributed redis-backed job queuing
 system with ack/fail semantics and support for multiple languages.
 
@@ -49,7 +48,7 @@ were missing properties that we needed, so I built and open-sourced this.
 
 ### offero.tech
 
-I am using this site to prototype NextJS, React, Material-UI, and deployment
+I used this site to prototype NextJS, React, Material-UI, and deployment
 using Zeit now.sh.
 
 Project here: [offero.tech](https://github.com/offero/offero.tech){:target="_blank"}
@@ -79,9 +78,9 @@ Project here: [Product Match](https://github.com/offero/productmatch){:target="_
 
 ### Algorithms
 
-I also like to improve and test my skills on algorithm problems and I keep my
-solutions to problems in a few repositories on github for reference. *ALL* code
-is my own.
+I like to improve and test my skills on algorithm problems and I keep my
+solutions to problems in a few repositories on github for reference.
+Some things are pretty old. *ALL* code is my own.
 
 - [Algorithm Playground](https://github.com/offero/algs){:target="_blank"}
 - [HackerRank Algorithms](https://github.com/offero/hackerrank){:target="_blank"}
